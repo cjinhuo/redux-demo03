@@ -7,7 +7,7 @@ redux中store变化时，（subscribe）订阅的函数就被调用一次，现�
 <pre>
 cd 新文件夹
 git clone git@github.com:TypeInfos/redux-demo03.git
-cd redux-demo03/my-app
+cd redux-demo03/react-redux/my-app
 npm install =>安装package.json中的依赖
 npm start => 运行
 </pre>
