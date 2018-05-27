@@ -206,7 +206,7 @@ function counter(state={num:10}, action){
     }
 }
 
-function auth(state={isAuth:false,user:'é™ˆé‡‘ä¼™'},action) {
+function auth(state={isAuth:false,user:'陈金伙'},action) {
     switch (action.type){
         case LOGIN:
             return {...state, isAuth:true};
